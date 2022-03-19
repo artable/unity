@@ -2,7 +2,7 @@
 
 The first bit of software in here is a control mechanism mimicking that of one of my favorite games, EV nova. It's sorta rough around the edges right now, but I'd hope to modernize it and modularize it such that most of the control values are products of player choices on the build of their space ship. The second bit makes a bunch of bouncy balls which bounce around and pool in a container in 3D. Just a bit of fun.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/93oktpg9gSg)
 
 # Development Environment
 
